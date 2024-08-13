@@ -1,20 +1,20 @@
 # Genetic Algorithm for Minimization of Two Objective Functions
 
 ## Project Overview
-This project implements a Genetic Algorithm (GA) to minimize two distinct objective functions. A genetic algorithm is an optimization technique based on the principles of natural selection and genetics, which is useful for solving complex problems that are difficult to solve using traditional methods. For a more detailed explanation refer to the [report](./Assignment%20AI.docx).
+This project implements a Genetic Algorithm (GA) to minimize two distinct objective functions. A genetic algorithm is an optimization technique based on the principles of natural selection and genetics, which is useful for solving complex problems that are difficult to solve using traditional methods. For a more detailed explanation refer to the [report](./report/Assignment%20AI.docx).
 
 The project focuses on minimizing the following two objective functions:
 
 1. **Objective 1**: A quadratic-based function with dependencies on previous variables.
    
-   ![First minimsation function](./min_func_1.png?raw=true)
-   ![First minimsation function](./min_func_graph_1.png?raw=true)
+   ![First minimsation function](./imgs/min_func_1.png?raw=true)
+   ![First minimsation function](./imgs/min_func_graph_1.png?raw=true)
    
 2. **Objective 2**: A polynomial function of degree 4 with additional constraints.
    
-   ![First minimsation function](./min_func_2.png?raw=true)
-   ![First minimsation function](./min_func_graph_2.png?raw=true)
-   ![First minimsation function](./min_func_2_ans.png?raw=true)
+   ![First minimsation function](./imgs/min_func_2.png?raw=true)
+   ![First minimsation function](./imgs/min_func_graph_2.png?raw=true)
+   ![First minimsation function](./imgs/min_func_2_ans.png?raw=true)
 
 ## Requirements
 - Python 3.x
